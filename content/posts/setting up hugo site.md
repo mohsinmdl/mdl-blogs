@@ -1,8 +1,8 @@
 ---
 title: "Setting up Hugo Site"
-date: 2020-04-10 01:41:45
+date: 2020-04-10T01:49:08+05:00
 description: "Getting starts with hugo site - the best online static site generator"
-tags: ['hugo', 'hugo-theme']
+tags: [hugo, theme]
 ---
 
 Download the latest release
@@ -58,4 +58,9 @@ hugo new post/hello-world
 ```
 hugo
 ```
+
+
+## Adding time format to the new post
+
+`YYYY-MM-DDThh:mm:ssZZZ`
 
