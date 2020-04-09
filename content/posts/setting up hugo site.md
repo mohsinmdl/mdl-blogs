@@ -1,6 +1,6 @@
 ---
 title: "Setting up Hugo Site"
-date: 2020-03-18T12:13:35+05:30
+date: 2020-04-10 01:41:45
 description: "Getting starts with hugo site - the best online static site generator"
 tags: ['hugo', 'hugo-theme']
 ---
