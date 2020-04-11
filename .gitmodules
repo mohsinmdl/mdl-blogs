@@ -1,6 +1,4 @@
-[submodule "themes/ezhil"]
-	path = themes/ezhil
-	url = https://github.com/vividvilla/ezhil.git
+
 [submodule "public"]
 	path = public
 	url = https://github.com/mohsinmdl/blogs-deploy
