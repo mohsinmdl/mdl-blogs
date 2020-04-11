@@ -5,7 +5,7 @@ description: "Getting starts with hugo site - the best online static site genera
 tags: [hugo, theme]
 ---
 
-Download the latest release
+Download the latest release Ubuntu
 ```
 [link](https://github.com/gohugoio/hugo/releases)
 ```
