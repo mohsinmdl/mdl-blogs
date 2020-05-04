@@ -39,7 +39,7 @@ git log
 git status 
 ```
 
-### Unstag files
+### Unstage files
 ``` sh
 git reset --hard
 
